@@ -9,7 +9,10 @@ import './index.css';
 // import App from './food-order-app/App';
 // import App from './blog-comments/App';
 // import App from './seasons/App';
-import App from './pics-search/App';
+// import App from './pics-search/App';
+// import App from './widgets/accordion-widget/App'
+// import App from './widgets/wikipedia-search-widget/App'
+import App from './widgets/dropdown-widget/App'
 
 ReactDOM.render(
   <React.StrictMode>
