@@ -20,7 +20,7 @@ const App = () => {
   const [selected, setSelected] = useState(options[0]);
   return (
     <div>
-      <Dropdown selected={selected} onSelectedChange={setSelected} options={options} />
+      <Dropdown label={"Select a Color"} selected={selected} onSelectedChange={setSelected} options={options} />
     </div>
   );
 };

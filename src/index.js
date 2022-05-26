@@ -12,7 +12,10 @@ import './index.css';
 // import App from './pics-search/App';
 // import App from './widgets/accordion-widget/App'
 // import App from './widgets/wikipedia-search-widget/App'
-import App from './widgets/dropdown-widget/App'
+// import App from './widgets/dropdown-widget/App'
+// import App from './widgets/translate-widget/App'
+// import App from './widgets/App';
+import App from './youtube-app/App';
 
 ReactDOM.render(
   <React.StrictMode>
