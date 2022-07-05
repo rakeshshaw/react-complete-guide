@@ -98,7 +98,7 @@ return (
 };
 
 const mapStateToProps = (state) => {
-    console.log(state.auth);
+    // console.log(state.auth);
   return { isSignedIn: state.auth.isSignedIn};
 };
 

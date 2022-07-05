@@ -14,7 +14,7 @@ const ModalOverlay = (props) => {
   );
 };
 
-// Bwe can create ackdrop and ModalOverlay in seperate component as well
+// we can create Backdrop and ModalOverlay in seperate component as well
 // we'll be using react portal feature to render it above the main body
 
 const portalElement = document.getElementById("overlays");
